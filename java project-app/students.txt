@@ -1,6 +1,10 @@
+<<<<<<< Updated upstream
 1223,MICHAELSON69
 123,ASD
 12,ASD
 123,WE
 123,MICHAELSON
 123,kofi
+=======
+123,mich
+>>>>>>> Stashed changes
